@@ -1,0 +1,15 @@
+{
+  "name": "node-js-section4",
+  "version": "1.0.0",
+  "description": "Project for education",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Mykyta Shaposhnikov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
